@@ -8,7 +8,7 @@
 Use HTML, CSS, and JavaScript to make your portfolio aesthetically pleasing.
 
 #### Consistency (6 pts)
-- 8pts: Background, text format, and color usage are carefully chosen to produce a consistent screen layout for all your pages.
+- 6pts: Background, text format, and color usage are carefully chosen to produce a consistent screen layout for all your pages.
 - 4pts: Background, text format, and color usage are somewhat consistent with little inappropriate variation.
 - 2pt: Background, text format, and color usage are randomly chosen with few consistent elements throughout
 
@@ -19,7 +19,7 @@ Use HTML, CSS, and JavaScript to make your portfolio aesthetically pleasing.
 - 1pt: Content is confusing and difficult to follow. Site is difficult to navigate. Not intuitive. Large images that take long to load.
 
 #### Simplicity and Color Scheme (6 pts)
-- 8pts:content is simple and to the point. Design is easy to understand in many ways color is appropriately used to produce an atmosphere that expresses the character of the Web site. 
+- 6pts:content is simple and to the point. Design is easy to understand in many ways color is appropriately used to produce an atmosphere that expresses the character of the Web site. 
 - 4pts: web page is somewhat busy. People reading it will have difficulty finding what they want quickly. Excessive use of graphic elements. Color is used somewhat appropriately to produce an atmosphere that expresses the character of the Web site.
 - 2pt: Web page is too busy. People reading it cannot find what they want quickly. Excessive use of graphic elements
 
